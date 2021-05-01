@@ -39,6 +39,8 @@ public class MagicValue {
 
     public static final String STYLUS_LANGUAGE_ID = "Stylus";
 
+    public static final String VUE_LANGUAGE_ID = "Vue";
+
     public static final String BLANK_STRING = " ";
 
     public static final String COLON_STRING = ":";
